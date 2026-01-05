@@ -9,22 +9,6 @@ Clean and preprocess raw Netflix data
 Perform analytical querying to extract insights
 Build a professional, interactive dashboard
 Present findings using data storytelling
-🗂️ Repository Structure
-Netflix-Big-Data-Analytics/
-├── data/
-│   ├── netflix_titles_raw.csv
-│   └── netflix_titles_clean.csv
-├── notebooks/
-│   └── data_cleaning.ipynb
-├── sql/
-│   └── netflix_analysis.sql
-├── dashboard/
-│   └── netflix_dashboard.pbix
-├── report/
-│   └── Netflix_Analytics_Report.pdf
-├── presentation/
-│   └── Netflix_Analytics_Presentation.pdf
-└── README.md
 🧹 Data Cleaning & Analysis
 Python (via Julius AI)
 Used for data loading, cleaning, feature engineering, and preparing an analysis-ready dataset.
